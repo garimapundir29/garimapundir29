@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garimapundir29&label=Profile%20views&color=0e75b6&style=flat" alt="garimapundir29" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,ReactJS,and Python.**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 👯 I’m looking to collaborate on **Android Development Projects.**
+- 👯 I’m looking to collaborate on **Software Development or Data Engineering Projects.**
 
 - 📫 How to reach me **garimagp2019@gmail.com**
 
