@@ -1,8 +1,10 @@
-
 <!-- Banner -->
+
+
 <table>
   <tr>
     <td width="70%">
+  
 
 <h1 align="center">Hi 👋, I'm Garima Pundir</h1>
 <h3 align="center">💻 Software Engineer | 🚀 Data Engineer | 🛠 Building Scalable Products & Solutions</h3>
