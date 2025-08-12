@@ -39,11 +39,9 @@
 <!-- END_SECTION:blog -->
 ---
 
-### 💼 Experience
-
 ## 💼 Experience  
 
-**Junior Software Developer / Data Engineer** — **Adidas** 
+**Junior Software Developer / Data Engineer** — **Adidas**
 📅 *June 2023 – Present* | 📍 Gurugram, India  
 - Built **200+ ML-ready KPIs** (behavioral, forecasting, operational), improving decision-making by **30%** and personalization accuracy by **25%**.  
 - Designed **40+ ETL workflows** (PySpark, SQL, Delta Lake) transforming raw multi-source data into production-grade features.  
@@ -53,7 +51,7 @@
 - Acted as both IC and technical lead, driving Agile ceremonies and aligning cross-functional teams.  
 
 
-**Software Development Engineer Intern** — **Autodesk**  
+**Software Development Engineer Intern** — **Autodesk**
 📅 *January 2023 – June 2023* | 📍 Pune, India  
 - Contributed to **Fusion 360** development using advanced **C++**, improving **event tracking accuracy by 40%** and reducing debugging time by **30%**.  
 - Created **100+ automated test cases**, increasing test coverage by **50%**.  
@@ -62,7 +60,7 @@
 
 ---
 
-### 🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights
 
 - **🚀 Finalist – GenAI Hackathon @ Adidas**  
   Secured **5th place** among **16 teams & 85+ participants**, delivering a high-impact AI-driven solution.  
@@ -78,103 +76,36 @@
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
 
-### 📋 Programming languages
+### 📋 Programming & Data Engineering Languages
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
-
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+    <img alt="PySpark" src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?logo=apache-spark&logoColor=white">
   </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
+  <a href="https://spark.apache.org/" target="_blank">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apachespark&logoColor=white">
   </a>
-</p>
-
-### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
   </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
-  
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
-</p>
-
-### ☁️ Cloud
-
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>   
-  
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white">
   </a> 
-  
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
   </a>
-  
-</p>
-
-### ♾️ DevOps
-
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?logo=databricks&logoColor=white">
   </a>
-
- <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
-  </a>
-  
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <a href="https://en.wikipedia.org/wiki/Data_modeling" target="_blank">
+    <img alt="Data Modeling" src="https://img.shields.io/badge/Data%20Modeling-%237B68EE.svg?logo=databricks&logoColor=white">
   </a>
 </p>
 
+---
 ### 💾 Databases
 
 <p align="left"> 
@@ -203,6 +134,104 @@
   
 </p>
 
+---
+
+### ☁️ Cloud & Big Data Platforms
+
+<p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+  </a>
+  <a href="https://databricks.com" target="_blank"> 
+    <img alt="Azure Databricks" src="https://img.shields.io/badge/Azure%20Databricks-%23FF3621.svg?logo=databricks&logoColor=white">
+  </a>
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Lakehouse_architecture" target="_blank">
+    <img alt="Data Lakehouse" src="https://img.shields.io/badge/Data%20Lakehouse-%234E89AE.svg?logo=databricks&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 📡 Streaming, ETL & Data Processing
+
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank"> 
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?logo=apache-kafka&logoColor=white">
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?logo=apache-airflow&logoColor=white">
+  </a>
+  <a href="https://delta.io/" target="_blank">
+    <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-%2300A3E0.svg?logo=databricks&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+     <img alt="ETL Development" src="https://img.shields.io/badge/ETL%20Development-0A66C2.svg?logo=databricks&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">
+    <img alt="Big Data Analysis" src="https://img.shields.io/badge/Big%20Data%20Analysis-%23FF6F00.svg?logo=apache-spark&logoColor=white">
+  </a>
+  <a href="https://unitycatalog.databricks.com/" target="_blank">
+    <img alt="Unity Catalog" src="https://img.shields.io/badge/Unity%20Catalog-%23FF3621.svg?logo=databricks&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 💾 Data Formats & Storage
+
+<p align="left"> 
+  <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank">
+    <img alt="CSV" src="https://img.shields.io/badge/CSV-%23FFD700.svg?logo=file&logoColor=black">
+  </a>
+  <a href="https://parquet.apache.org/" target="_blank">
+    <img alt="Parquet" src="https://img.shields.io/badge/Parquet-%232E8B57.svg?logo=apache&logoColor=white">
+  </a>
+  <a href="https://avro.apache.org/" target="_blank">
+    <img alt="Avro" src="https://img.shields.io/badge/Avro-%23FF4500.svg?logo=apache&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Table_(database)" target="_blank">
+    <img alt="Table" src="https://img.shields.io/badge/Table-%23708090.svg?logo=datatables&logoColor=white">
+  </a>
+</p>
+
+---
+
+### ♾️ DevOps, CI/CD & Collaboration
+
+<p align="left"> 
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>   
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+  </a> 
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white">
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank"> 
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white">
+  </a>
+  <a href="https://bitbucket.org/" target="_blank"> 
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white">
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank">
+    <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172B4D.svg?logo=confluence&logoColor=white">
+  </a>
+</p>
+
+---
 ### 🎛️ Operating Systems
 
 <p align="left"> 
@@ -223,6 +252,8 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
   </a>
 </p>
+
+---
   
 ### 💻 IDEs/Editors
 
@@ -252,6 +283,17 @@
   </a>
 </p>
 
+---
+### 🧠 Soft Skills
+
+<p align="left">
+  <img alt="Leadership" src="https://img.shields.io/badge/Leadership-%23FF1493.svg?logo=Handshake&logoColor=white">
+  <img alt="Collaboration" src="https://img.shields.io/badge/Collaboration-%23FF69B4.svg?logo=teamviewer&logoColor=white">
+  <img alt="Agile Methodologies" src="https://img.shields.io/badge/Agile%20Methodologies-%2328A745.svg?logo=scrumalliance&logoColor=white">
+</p>
+
+---
+
 ### 🥅 Others:
 
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
@@ -265,8 +307,6 @@
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-
-----------------------
 
 ---
 
