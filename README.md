@@ -56,7 +56,6 @@
 **Software Development Engineer Intern** — **Autodesk**
 📅 *January 2023 – June 2023* | 📍 Pune, India  
 - Contributed to **Fusion 360** development using advanced **C++**, improving **event tracking accuracy by 40%** and reducing debugging time by **30%**.  
-- Created **100+ automated test cases**, increasing test coverage by **50%**.  
 - Optimized features and UI, enhancing **workflow efficiency by 25%** and improving **user experience**.  
 
 
