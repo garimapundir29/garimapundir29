@@ -36,8 +36,8 @@
 | Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
 | B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Technology and Management | AKTU | 2019 - 2023 | 9.21 CGPA |
-| Intermediate | <img src="https://github.com/garimapundir29/Akanksha_Portfolio/blob/main/src/assets/images/aps.jpg" width="40" height="30"> | Army Public School Mamun Military Station | CBSE | 2018 - 2019 | 91.60% |
-| High School | <img src="https://github.com/garimapundir29/Akanksha_Portfolio/blob/main/src/assets/images/aps.jpg" width="40" height="30"> | Army Public School Mamun Military Station | CBSE | 2016 - 2018 | 10 CGPA |
+| Intermediate | <img src="https://github.com/Akankshapundir12/Akanksha_Portfolio/blob/main/My_Portfolio-main/src/assets/images/aps.jpg" width="35" height="30"> | Army Public School Mamun Military Station | CBSE | 2018 - 2019 | 91.60% |
+| High School | <img src="https://github.com/Akankshapundir12/Akanksha_Portfolio/blob/main/My_Portfolio-main/src/assets/images/aps.jpg" width="35" height="30"> | Army Public School Mamun Military Station | CBSE | 2016 - 2018 | 10 CGPA |
 <!-- END_SECTION:blog -->
 ---
 
