@@ -43,8 +43,9 @@
 
 ## 💼 Experience  
 
-**Junior Software Developer / Data Engineer** — **Adidas**
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg" alt="Adidas Logo" width="30" /> **Junior Software Developer / Data Engineer** — **Adidas**
 📅 *June 2023 – Present* | 📍 Gurugram, India  
+
 - Built **200+ ML-ready KPIs** (behavioral, forecasting, operational), improving decision-making by **30%** and personalization accuracy by **25%**.  
 - Designed **40+ ETL workflows** (PySpark, SQL, Delta Lake) transforming raw multi-source data into production-grade features.  
 - Optimized Spark workloads (DAG analysis, caching, tuning) for **80% faster execution** and reduced compute costs.  
@@ -53,7 +54,7 @@
 - Acted as both IC and technical lead, driving Agile ceremonies and aligning cross-functional teams.  
 
 
-**Software Development Engineer Intern** — **Autodesk**
+<img src="https://brand.autodesk.com/wp-content/uploads/2025/02/logo-03-variations-alternate-421x237@2x.png" alt="Autodesk Logo" width="50" />  **Software Development Engineer Intern** — **Autodesk**
 📅 *January 2023 – June 2023* | 📍 Pune, India  
 - Contributed to **Fusion 360** development using advanced **C++**, improving **event tracking accuracy by 40%** and reducing debugging time by **30%**.  
 - Optimized features and UI, enhancing **workflow efficiency by 25%** and improving **user experience**.  
